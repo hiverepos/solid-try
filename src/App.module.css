@@ -1,0 +1,6 @@
+.link {
+  color: #b318f0;
+}
+.app {
+  @apply text-2xl;
+}
